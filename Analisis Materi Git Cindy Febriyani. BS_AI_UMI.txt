@@ -1,0 +1,34 @@
+﻿Nama : Cindy Febriyani. BS
+Universitas Muslim Indonesia
+Quiz 2 Analisis Materi Git
+
+Pengenalan 
+Git adalah version control system yang digunakan untuk melacak perubahan dalam kode sumber perangkat lunak dan kolaborasi dalam pengembangan perangkat lunak. Git memungkinkan para pengembang untuk bekerja seara bersama-sama pada proyek yang sama dan melacak setiap perubahan yang dilakukan pada source code. Dan terdapat 2 sistem git, yaitu centralized dan distributed.
+Fitur – Fitur Git :
+Versin control 
+Git Branch
+Merging
+Staging Area
+Git Rebase
+Hooks
+GUI tools
+Perintah Utama :
+git init: Inisialisasi repositori di direktori.
+git clone: Menduplikasi repositori dari server ke komputer lokal.
+git add: Menambahkan perubahan ke area staging.
+git commit: Menyimpan perubahan yang ada di area staging.
+git pull: Mengambil perubahan terbaru dari repositori jarak jauh (remote) dan menggabungkannya.
+git push: Mengirimkan perubahan lokal ke repositori jarak jauh.
+git branch: Mengelola cabang.
+git merge: Menggabungkan perubahan dari satu cabang ke cabang lain.
+git rebase: Menggabungkan perubahan dengan menggeser komit
+Keunggulan dan Kelemahan Git 
+Kelebihan : Dapat mengelola versi kode sumber dengan mudah dan efisien, dapat melakukan branching dan merging dengan mudah dan aman, dapat melacak perubahan dan siapa membuat perubahan terserbut.
+Kelemahan : Memiliki fitur yang kompleks dan terkadang membingungkan bagi pengguna yang kurang berpengalaman, memerlukan pemahaman yang baik tentang konsep dasar seperti repositorty, commit, branching dan merging
+Kesimpulan 
+    	Git adalah alat untuk pengontrol versi dan kolaborasi dalam pengembangan perangkat lunak. Memahami konsep dan perintah utama Git penting untuk mengoptimalkan alur kerja pengembangan, memastikan stabilitas kode dan memungkinkan kerjasama tim yang efisien.
+    	Dalam dunia pengembangan perangkat lunak yang semakin dinamis, Git menjadi pilar yang mendukung inovasi, kolaborasi dan manajemen kode sumber. Dengan memahami konsep dan praktiknya, pengembangan dapat mengoptimalkan alur kerja, meningkatkan kualitas perangkat lunak.
+    
+    
+
+
